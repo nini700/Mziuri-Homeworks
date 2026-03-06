@@ -1,0 +1,30 @@
+101,John,Doe,2,88.5,Math Physics Chemistry
+102,Jane,Smith,3,92.0,Biology Chemistry English
+103,Michael,Brown,1,75.0,History Geography
+104,Emily,White,4,80.0,Math ComputerScience Economics
+105,David,Lee,2,85.0,Physics Math Statistics
+106,Sarah,Johnson,3,90.0,English History Art
+107,Robert,Garcia,1,78.0,Math Physics
+108,Linda,Martinez,4,82.5,Chemistry Biology English
+109,William,Rodriguez,2,87.0,Geography History PoliticalScience
+110,Barbara,Hernandez,3,91.5,Math Economics ComputerScience
+111,James,Lopez,1,76.0,History Literature
+112,Elizabeth,Gonzalez,4,84.0,Physics Chemistry Biology
+113,Joseph,Wilson,2,89.0,Math English ComputerScience
+114,Patricia,Anderson,3,93.0,Economics Math Statistics
+115,Charles,Thomas,1,74.5,Geography History
+116,Mary,Taylor,4,86.5,Chemistry Biology Physics
+117,Christopher,Moore,2,88.0,English Art Music
+118,Susan,Jackson,3,90.5,Math Physics Chemistry
+119,Daniel,Martin,1,77.5,History PoliticalScience
+120,Karen,Lee,4,83.0,ComputerScience Math Economics
+121,Matthew,Perez,2,87.5,Physics Chemistry Biology
+122,Nancy,Thompson,3,92.5,English History Literature
+123,Anthony,White,1,79.0,Math Geography
+124,Donna,Harris,4,85.5,Economics Business Math
+125,Mark,Sanchez,2,88.0,ComputerScience Physics
+126,Carol,Clark,3,91.0,Art Music Literature
+127,Steven,Ramirez,1,75.5,History Geography PoliticalScience
+128,Margaret,Lewis,4,84.5,Chemistry Biology English
+129,Paul,Robinson,2,89.5,Math Physics ComputerScience
+130,Dorothy,Walker,3,90.0,Economics Statistics Business
