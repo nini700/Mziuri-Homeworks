@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Davaleba2.Controller">
+    <children>
+        <ImageView fx:id="imageView" fitHeight="350.0" fitWidth="500.0" layoutX="50.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true" />
+        <Button fx:id="prevButton" layoutX="150.0" layoutY="430.0" mnemonicParsing="false" onAction="#prev" text="Previous" />
+        <Button fx:id="nextButton" layoutX="350.0" layoutY="430.0" mnemonicParsing="false" onAction="#next" text="Next" />
+    </children>
+</AnchorPane>
