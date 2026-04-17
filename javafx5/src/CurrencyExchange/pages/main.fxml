@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="400.0" prefWidth="500.0"
+            style="-fx-background-color: #2d0020;"
+            xmlns="http://javafx.com/javafx/25"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="CurrencyExchange.Controller">
+    <children>
+
+        <Label layoutX="150.0" layoutY="40.0"
+               text="Currency Exchange"
+               style="-fx-text-fill: #ff69b4;">
+            <font><Font size="28.0" /></font>
+        </Label>
+
+        <Label layoutX="60.0" layoutY="120.0"
+               text="From:"
+               style="-fx-text-fill: #ffb6c1;">
+            <font><Font size="16.0" /></font>
+        </Label>
+        <ChoiceBox fx:id="fromChoice"
+                   layoutX="130.0" layoutY="115.0"
+                   prefWidth="120.0" />
+
+        <Label layoutX="280.0" layoutY="120.0"
+               text="To:"
+               style="-fx-text-fill: #ffb6c1;">
+            <font><Font size="16.0" /></font>
+        </Label>
+        <ChoiceBox fx:id="toChoice"
+                   layoutX="320.0" layoutY="115.0"
+                   prefWidth="120.0" />
+
+        <Label layoutX="60.0" layoutY="190.0"
+               text="Amount:"
+               style="-fx-text-fill: #ffb6c1;">
+            <font><Font size="16.0" /></font>
+        </Label>
+        <Spinner fx:id="amountSpinner"
+                 layoutX="150.0" layoutY="185.0"
+                 prefWidth="200.0" />
+
+        <Label fx:id="resultLabel"
+               layoutX="60.0" layoutY="280.0"
+               prefWidth="380.0"
+               style="-fx-text-fill: #ff1493; -fx-background-color: #4a0030; -fx-padding: 10; -fx-background-radius: 8;">
+            <font><Font size="18.0" /></font>
+        </Label>
+
+    </children>
+</AnchorPane>
